@@ -1,0 +1,2 @@
+1. Word2Vec Tutorial - The Skip-Gram Model: http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/
+4. Word Embedding: https://medium.com/data-science-group-iitr/word-embedding-2d05d270b285
